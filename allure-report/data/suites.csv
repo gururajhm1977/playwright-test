@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 25 10:41:19 IST 2022","Fri Feb 25 10:41:22 IST 2022","3337","iPhone 13","bckup/example.spec.js","New Todo","","","should allow me to add todo items @reg",""
+"passed","Fri Feb 25 10:41:19 IST 2022","Fri Feb 25 10:41:23 IST 2022","3737","Pixel 4","bckup/example.spec.js","New Todo","","","should allow me to add todo items @reg",""
+"passed","Fri Feb 25 10:41:23 IST 2022","Fri Feb 25 10:41:24 IST 2022","1459","Pixel 4","bckup/example.spec.js","New Todo","","","should clear text input field when an item is added @reg",""
+"passed","Fri Feb 25 10:41:22 IST 2022","Fri Feb 25 10:41:24 IST 2022","1459","iPhone 13","bckup/example.spec.js","New Todo","","","should clear text input field when an item is added @reg",""
