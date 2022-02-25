@@ -1,0 +1,28 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_modules/debug/src/index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "allure:generate": "npx allure generate ./allure-results --clean",
+    "allure:open": "npx allure open ./allure-report",
+    "allure:serve": "npx allure serve",
+    "posttest": "npm run allure:generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gururajhm1977/playwright-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gururajhm1977/playwright-test/issues"
+  },
+  "homepage": "https://github.com/gururajhm1977/playwright-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.1",
+    "allure-playwright": "^2.0.0-beta.15"
+  }
+}
